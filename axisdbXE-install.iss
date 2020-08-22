@@ -22,10 +22,6 @@ Dlg5={05A7B662-80A3-4EB9-AE1D-89A62449431C}-SdStartCopy-0
 Dlg6={05A7B662-80A3-4EB9-AE1D-89A62449431C}-SdFinish-0
 [{05A7B662-80A3-4EB9-AE1D-89A62449431C}-SdWelcome-0]
 Result=1
-[{05A7B662-80A3-4EB9-AE1D-89A62449431C}-SdLicense2Rtf-0]
-Result=1
-[{05A7B662-80A3-4EB9-AE1D-89A62449431C}-SdComponentDialog-0]
-szDir=C:\oraclexe\
 Component-type=string
 Component-count=1
 Component-0=DefaultFeature
